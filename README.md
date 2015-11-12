@@ -1,0 +1,1 @@
+# ApagarArquivos_Delphi 
